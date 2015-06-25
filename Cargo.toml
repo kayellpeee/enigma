@@ -1,0 +1,8 @@
+[package]
+name = "enigma"
+version = "0.1.0"
+authors = ["Keenan Lidral-Porter <klp2012@gmail.com>"]
+
+[dependencies]
+cipha = "0.1.0"
+mio = "0.3.0"
